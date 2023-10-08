@@ -69,3 +69,17 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+:root {
+  --clr-body-bg: hsl(210, 46%, 95%);
+  --clr-text-main: hsl(212, 23%, 69%);
+  --clr-text-heading: hsl(214, 17%, 51%);
+  --clr-popup: hsl(217, 19%, 35%);
+
+  --fs-main: 0.8125rem;
+
+  --fw-main: 500;
+  --fw-bold: 700;
+
+  --ff-main: "Manrope", sans-serif;
+}
